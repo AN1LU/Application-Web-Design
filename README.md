@@ -14,7 +14,7 @@
 
 <p>Teacher: Salvador Magaña Sánchez<p>
 
-## what is the Markdown syntaxis?
+## What is the Markdown syntaxis?
 
 **Markdown** is a lightweight markup language used to create formatted text using plain text syntax.  
 It is simple to read and write, while allowing you to add formatting like **bold**, *italics*, lists, links, headings, and images.
